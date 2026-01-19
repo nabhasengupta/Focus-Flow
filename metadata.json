@@ -1,0 +1,7 @@
+{
+  "name": "FocusFlow",
+  "description": "ADHD-friendly task manager with AI voice parsing and coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
